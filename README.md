@@ -3,7 +3,7 @@ You need SFML installed. If you are on a Linux machine, simple run `sudo apt-get
 
 ## Build Instructions
 
-1. `git clonehttps://github.com/Dhananjay450/Pathfinding-Visualizer
+1. `git clone https://github.com/Dhananjay450/Pathfinding-Visualizer
 2. `g++ pathfinder.cpp -o pathfinder -std=c++11 -lsfml-window -lsfml-system -lsfml-graphics`
 
 
